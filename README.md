@@ -1,4 +1,4 @@
-# Responsive landing page 
+# Responsive Landing Page made with HTML & CSS
 
 Live site: https://sunnyside-agency-landing-page-123.netlify.app
 
